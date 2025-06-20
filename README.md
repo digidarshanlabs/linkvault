@@ -75,7 +75,7 @@ This project is open to pull requests. If you'd like to add new links or categor
 
 ## 🌐 Contact
 
-- 📧 Email: `contact@digidarshanlabs.in` *(if applicable)*
+- 📧 Email: `digidarshanlabs@gmail.com`
 - 🔗 GitHub: [github.com/digidarshanlabs](https://github.com/digidarshanlabs)
 
 ---
